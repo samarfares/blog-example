@@ -2,7 +2,7 @@
 
 ### just a simple example of adding Bootstrap Template to your react app
 
-1. Download the Bootstrap template you want to add.
+1. Download the Bootstrap template you want to add.(for example : [Free Bootstrap Templates](https://startbootstrap.com/)
 
 2. Copy all the files in the bootstrap folder  Except ```index.html``` and paste them in ```Public Folder``` in your app.
 
