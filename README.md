@@ -1,4 +1,4 @@
-# Blog-example
+# Bootstrap-example
 
 ### just a simple example of adding Bootstrap Template to your react app
 
